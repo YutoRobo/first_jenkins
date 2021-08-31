@@ -5,11 +5,12 @@
 //C++の入出力オブジェクトを
 //使用するのに必要
 #include <iostream>
-#include "first_make_file.h"
+#include "hello_world.h"
 
 int main()
 {
-    printf("printfによる出力\n");
+    HelloWorld helloWorld;
+    helloWorld.printScreen();
 
     //C++的な書き方
     std::cout << "coutによる出力\n";
