@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/yuto/devel/include",
+                "/home/yuto/catkin_ws/devel/include",
+                "/opt/ros/melodic/include",
+                "/home/yuto/catkin_ws/src/dyret_common/include",
+                "/home/yuto/catkin_ws/src/dyret_simulation/dyret_gazebo_plugin/include",
+                "/home/yuto/src/freenect_stack/freenect_camera/include",
+                "/home/yuto/src/iai_kinect2/kinect2_bridge/include",
+                "/home/yuto/src/iai_kinect2/kinect2_calibration/include",
+                "/home/yuto/src/iai_kinect2/kinect2_registration/include",
+                "/home/yuto/catkin_ws/src/multi_legged_robot/multi_legged_control/include",
+                "/home/yuto/catkin_ws/src/multi_legged_robot/multi_legged_tools/include",
+                "/home/yuto/catkin_ws/src/multi_legged_robot/multi_legged_walk/include",
+                "/home/yuto/src/joystick_drivers-master/wiimote/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

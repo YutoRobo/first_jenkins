@@ -13,6 +13,8 @@ int main()
 
     //C++的な書き方
     std::cout << "coutによる出力\n";
-
+    int i;
+    int j;
+    int k;
     getchar();
 }
